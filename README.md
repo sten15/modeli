@@ -1,0 +1,2 @@
+# modeli
+testna vtkjs datoteka
