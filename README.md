@@ -1,2 +1,4 @@
 # modeli
-testna vtkjs datoteka
+delovna fiženca datoteka (vtkjs format)
+test.html 
+
